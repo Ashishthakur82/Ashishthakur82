@@ -4,6 +4,14 @@
 <img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishthakur82&label=Profile%20views&color=0e75b6&style=flat" alt="ashishthakur82" /> </p>
 
+- 🔭 I’m currently working on **Project Management**
+
+- 🌱 I’m currently learning **Data analysis courses**
+
+- 👨‍💻 All of my projects are available at [https://ashishthakur82.github.io/Data-Analyst-Portfolio/](https://ashishthakur82.github.io/Data-Analyst-Portfolio/)
+
+- 💬 Ask me about **Python,Visualization, Data etc.**
+
 - 📫 How to reach me **thakurashishat.82@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16lkU7AHdAb0eDvxXLENNazymmxNt59PA/view?usp=sharing](https://drive.google.com/file/d/16lkU7AHdAb0eDvxXLENNazymmxNt59PA/view?usp=sharing)
