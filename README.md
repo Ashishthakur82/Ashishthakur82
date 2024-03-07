@@ -1,6 +1,7 @@
+![logo](https://github.com/Ashishthakur82/Ashishthakur82/blob/main/Data-Analyst.png)
 <h1 align="center">Hi 👋, I'm Ashish Thakur</h1>
 <h3 align="center">A versatile Data Analyst developer from India the growing hub of the data</h3>
-<img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding"width="400" src="https://www.google.com/search?q=animated+data+gif&sca_esv=0ea72c185f263238&rlz=1C1CHBF_enIN927IN927&tbm=isch&sxsrf=ACQVn09mXHJT7ufQEcXlQjOEt6mjGCNRnQ:1709786486370&source=lnms&sa=X&ved=2ahUKEwiMq6WBq-GEAxVBi2MGHa0FAh0Q0pQJegQIAhAE&biw=1920&bih=911&dpr=1#imgrc=FarcNnCxKGaQSM">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishthakur82&label=Profile%20views&color=0e75b6&style=flat" alt="ashishthakur82" /> </p>
 
 - 📫 How to reach me **thakurashishat.82@gmail.com**
